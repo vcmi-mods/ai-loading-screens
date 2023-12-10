@@ -1,0 +1,27 @@
+{
+	"name" : "1920x1080 main menu resolution",
+	"description" : "Additional higher resolution.",
+	"version" : "1.0",
+	"author" : "Dall-E 3, Andruids, avatar",
+	"contact" : "http://forum.vcmi.eu/index.php",
+	"modType" : "Interface",
+	"changelog" :
+	{
+		"1.0" : ["Initial release"]
+	},
+	"compatibility" :
+	{
+		"min" : "1.0.0"
+	},
+	"conflicts" :
+	[
+		"new-interface-mod",		
+		"hi-rez-menu",
+		"hota.mainmenu",
+		"tides-of-war.tow-main-menu",
+		"wake-of-gods.mainmenu",
+		"ai-loading-screens.1024x768",
+		"ai-loading-screens.1920x1200"
+	],
+	"keepDisabled" : true
+}
