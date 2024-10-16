@@ -23,5 +23,9 @@
 		"ai-loading-screens.1920x1080",
 		"ai-loading-screens.1920x1200"
 	],
-	"keepDisabled" : true
+	"keepDisabled" : true,
+	"czech" : {
+		"name" : "Rozlišení hlavního menu - 1024x768",
+		"description" : "Dodatečné vyšší rozlišení."
+	}
 }
